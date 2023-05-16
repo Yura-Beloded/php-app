@@ -13,7 +13,7 @@
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations from AWS!</h1>
+        <h1><font color=red>Congratulations from AWS!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version 8.1.18</p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
