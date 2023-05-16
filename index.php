@@ -14,7 +14,7 @@
 <body>
     <section class="congratulations">
         <h1><font color=red>Congratulations <br> <font color=gold>AWS Engineer!</font></h1>
-        <p><font color=black>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p><font color=black>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</font></p>
         <p>You are running PHP version 8.1.18</p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
